@@ -1,2 +1,4 @@
-2026/10/07-16:45:13.121 938 Creating DB E:\programfiles\unrealprojects\CatJam\CatJam\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/10/07-16:45:13.473 938 Reusing MANIFEST E:\programfiles\unrealprojects\CatJam\CatJam\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/08-19:19:04.011 445c Creating DB E:\programfiles\unrealprojects\CatJam\CatJam\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/10/08-19:19:04.216 445c Reusing MANIFEST E:\programfiles\unrealprojects\CatJam\CatJam\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/08-19:19:04.217 445c Recovering log #3
+2026/10/08-19:19:04.218 445c Reusing old log E:\programfiles\unrealprojects\CatJam\CatJam\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
