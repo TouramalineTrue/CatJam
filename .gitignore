@@ -73,3 +73,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+CatJam/Saved/webcache_6613/Default/Site Characteristics Database/000006.log
+*.ldb
+*.old
+*.log
+*.json
+*.uasset
+*.pma
+*.bin
